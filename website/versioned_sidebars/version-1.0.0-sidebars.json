@@ -1,0 +1,10 @@
+{
+  "version-1.0.0-docs": {
+    "API": ["version-1.0.0-doc1"],
+    "First Category": ["version-1.0.0-doc2"],
+    "Second Category": ["version-1.0.0-doc3"]
+  },
+  "version-1.0.0-docs-other": {
+    "API": ["version-1.0.0-users", "version-1.0.0-merchants"]
+  }
+}
