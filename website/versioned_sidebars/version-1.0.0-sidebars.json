@@ -5,6 +5,10 @@
     "Second Category": ["version-1.0.0-doc3"]
   },
   "version-1.0.0-docs-other": {
-    "API": ["version-1.0.0-users", "version-1.0.0-merchants"]
+    "API": [
+      "version-1.0.0-users",
+      "version-1.0.0-merchants",
+      "version-1.0.0-auth"
+    ]
   }
 }

@@ -21,6 +21,9 @@
       "doc5": {
         "title": "Fifth Document"
       },
+      "version-1.0.0/version-1.0.0-auth": {
+        "title": "Auth"
+      },
       "version-1.0.0/version-1.0.0-doc1": {
         "title": "Latin-ish",
         "sidebar_label": "Example Page"

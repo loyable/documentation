@@ -391,6 +391,10 @@ API URL: `http://api.loyable.it:5000/`
           type: [Number],
           required: true
         }
+      },
+      geohash: {
+        type: String,
+        required: true
       }
     },
     description: String,
